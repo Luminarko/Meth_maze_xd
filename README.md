@@ -35,3 +35,5 @@ A poslední design páčky:
 ![image](https://user-images.githubusercontent.com/92807683/227800730-9a19e22b-5f22-41c4-8b1d-49c73aa1c875.png)
 
 
+## Audio
+Všechny sound-effekty jsem stáhl z webu https://pixabay.com/cs/sound-effects/ a upravil v aplikaci AUDACITY

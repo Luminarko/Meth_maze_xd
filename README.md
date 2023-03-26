@@ -40,5 +40,4 @@ A poslední design páčky:
 
 ## Audio
 Všechny sound-effekty jsem stáhl z webu https://pixabay.com/cs/sound-effects/ a upravil v aplikaci AUDACITY
-Zde jsou ukázky sound-effektů
-Punch: 
+Přehratelné efekty v formátu mp3 naleznete zde:

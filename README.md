@@ -1,5 +1,8 @@
 # Meth_maze_xd
 
+## Funkčí hratelná verze - zatím pouze v rozlišení 1980px/1080px
+https://drive.google.com/drive/folders/1oYj2rdCyZ9q4olCfZBloDCdgFFZCdZ_-?usp=sharing
+
 ## Kategorie:
 Bludiště, Drogy, Násilí, Retro
 

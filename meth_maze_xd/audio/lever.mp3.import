@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/lever.mp3-a78fbfac752bcf7be7c13857045da155.mp3str"
+
+[deps]
+
+source_file="res://audio/lever.mp3"
+dest_files=[ "res://.import/lever.mp3-a78fbfac752bcf7be7c13857045da155.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

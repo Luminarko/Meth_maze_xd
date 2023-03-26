@@ -1,17 +1,40 @@
-[gd_scene load_steps=2 format=2]
+[gd_scene load_steps=6 format=2]
 
 [ext_resource path="res://Main_menu.gd" type="Script" id=1]
+[ext_resource path="res://fonts/True Lies.ttf" type="DynamicFontData" id=2]
+
+[sub_resource type="DynamicFont" id=2]
+outline_color = Color( 0, 0, 0, 1 )
+font_data = ExtResource( 2 )
+
+[sub_resource type="DynamicFont" id=3]
+font_data = ExtResource( 2 )
+
+[sub_resource type="DynamicFont" id=1]
+size = 120
+outline_size = 1
+extra_spacing_top = 15
+extra_spacing_bottom = 2
+extra_spacing_char = 3
+extra_spacing_space = 4
+font_data = ExtResource( 2 )
 
 [node name="Main_menu" type="Control"]
-anchor_left = 0.5
-anchor_top = 0.5
-anchor_right = 0.5
-anchor_bottom = 0.5
-margin_left = -960.0
-margin_top = -540.0
-margin_right = 960.0
-margin_bottom = 540.0
+anchor_left = 0.235
+anchor_top = 0.28
+anchor_right = 0.704
+anchor_bottom = 0.423
+margin_left = -451.2
+margin_top = -302.4
+margin_right = 568.32
+margin_bottom = 623.16
 script = ExtResource( 1 )
+
+[node name="ColorRect" type="ColorRect" parent="."]
+margin_right = 1920.0
+margin_bottom = 1080.0
+rect_rotation = -0.0102434
+color = Color( 0.717647, 0.717647, 0.717647, 1 )
 
 [node name="VBoxContainer" type="VBoxContainer" parent="."]
 anchor_left = 0.5
@@ -19,20 +42,56 @@ anchor_top = 0.5
 anchor_right = 0.5
 anchor_bottom = 0.5
 margin_left = -96.0
-margin_top = -73.0
+margin_top = 94.0
 margin_right = 96.0
-margin_bottom = 73.0
+margin_bottom = 206.0
 
 [node name="Start" type="Button" parent="VBoxContainer"]
 margin_right = 192.0
-margin_bottom = 20.0
+margin_bottom = 24.0
+custom_colors/font_color_disabled = Color( 0, 0, 0, 1 )
+custom_colors/font_color_focus = Color( 0, 0, 0, 1 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_fonts/font = SubResource( 2 )
 text = "Start"
 
 [node name="Quit" type="Button" parent="VBoxContainer"]
-margin_top = 24.0
+margin_top = 28.0
 margin_right = 192.0
-margin_bottom = 44.0
+margin_bottom = 52.0
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_fonts/font = SubResource( 3 )
 text = "Quit"
+
+[node name="VBoxContainer2" type="VBoxContainer" parent="."]
+modulate = Color( 0, 0, 0, 1 )
+self_modulate = Color( 0, 0, 0, 1 )
+margin_left = 500.0
+margin_top = 20.0
+margin_right = 1112.0
+margin_bottom = 193.0
+grow_horizontal = 2
+rect_rotation = -0.150327
+rect_scale = Vector2( 1.56184, 3.50457 )
+alignment = 1
+__meta__ = {
+"_editor_description_": "										"
+}
+
+[node name="Label" type="Label" parent="VBoxContainer2"]
+margin_top = 15.0
+margin_right = 852.0
+margin_bottom = 158.0
+size_flags_horizontal = 5
+size_flags_vertical = 0
+size_flags_stretch_ratio = 20.0
+custom_constants/line_spacing = 0
+custom_constants/shadow_offset_y = 0
+custom_fonts/font = SubResource( 1 )
+text = "Meth Maze XD"
+align = 1
+valign = 1
+max_lines_visible = 3
 
 [connection signal="pressed" from="VBoxContainer/Start" to="." method="_on_Start_pressed"]
 [connection signal="pressed" from="VBoxContainer/Quit" to="." method="_on_Quit_pressed"]

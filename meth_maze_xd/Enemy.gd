@@ -12,9 +12,3 @@ func _physics_process(_delta):
 	velocity.x = speed * direction
 	
 	move_and_slide(velocity, Vector2.UP)
-
-
-func _on_HITBOX_body_entered(body):
-	print(body.value)
-	if body.has_method("hit"):
-		body.hit()

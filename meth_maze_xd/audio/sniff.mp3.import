@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/sniff.mp3-1936bb4e5aac14b58b36003e5acd0da0.mp3str"
+
+[deps]
+
+source_file="res://audio/sniff.mp3"
+dest_files=[ "res://.import/sniff.mp3-1936bb4e5aac14b58b36003e5acd0da0.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

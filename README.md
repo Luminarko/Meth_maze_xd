@@ -1,8 +1,5 @@
 # Meth_maze_xd
 
-## Funkčí hratelná verze - zatím pouze v rozlišení 1980px/1080px
-https://drive.google.com/drive/folders/1oYj2rdCyZ9q4olCfZBloDCdgFFZCdZ_-?usp=sharing
-
 ## Kategorie:
 Bludiště, Drogy, Násilí, Retro
 
@@ -41,3 +38,6 @@ A poslední design páčky:
 ## Audio
 Všechny sound-effekty jsem stáhl z webu https://pixabay.com/cs/sound-effects/ a upravil v aplikaci AUDACITY
 Přehratelné efekty v formátu mp3 naleznete zde: https://github.com/Luminarko/Meth_maze_xd/tree/main/meth_maze_xd/audio
+
+## GODOT
+https://drive.google.com/drive/folders/1oYj2rdCyZ9q4olCfZBloDCdgFFZCdZ_-?usp=sharing

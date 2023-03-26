@@ -39,5 +39,9 @@ A poslední design páčky:
 Všechny sound-effekty jsem stáhl z webu https://pixabay.com/cs/sound-effects/ a upravil v aplikaci AUDACITY
 Přehratelné efekty v formátu mp3 naleznete zde: https://github.com/Luminarko/Meth_maze_xd/tree/main/meth_maze_xd/audio
 
+## Banner
+![image](https://user-images.githubusercontent.com/92807683/227806072-5c49a7ad-afb8-4002-bdc6-4f62fba8e02b.png)
+
+
 ## GODOT
 https://drive.google.com/drive/folders/1oYj2rdCyZ9q4olCfZBloDCdgFFZCdZ_-?usp=sharing

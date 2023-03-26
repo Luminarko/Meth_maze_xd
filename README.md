@@ -40,4 +40,4 @@ A poslední design páčky:
 
 ## Audio
 Všechny sound-effekty jsem stáhl z webu https://pixabay.com/cs/sound-effects/ a upravil v aplikaci AUDACITY
-Přehratelné efekty v formátu mp3 naleznete zde:
+Přehratelné efekty v formátu mp3 naleznete zde: https://github.com/Luminarko/Meth_maze_xd/tree/main/meth_maze_xd/audio

@@ -41,7 +41,12 @@ Přehratelné efekty v formátu mp3 naleznete zde: https://github.com/Luminarko/
 
 ## Banner
 ![image](https://user-images.githubusercontent.com/92807683/227806072-5c49a7ad-afb8-4002-bdc6-4f62fba8e02b.png)
+![image](https://user-images.githubusercontent.com/92807683/227807330-1042a394-efdd-4572-95a2-2b55b0ed3e1e.png)
+![image](https://user-images.githubusercontent.com/92807683/227807336-7fdce08f-4385-4e5a-892b-dc1f82323313.png)
+
+
 
 
 ## GODOT
 https://drive.google.com/drive/folders/1oYj2rdCyZ9q4olCfZBloDCdgFFZCdZ_-?usp=sharing
+

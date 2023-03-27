@@ -49,8 +49,6 @@ margin_bottom = 206.0
 [node name="Start" type="Button" parent="VBoxContainer"]
 margin_right = 192.0
 margin_bottom = 24.0
-custom_colors/font_color_disabled = Color( 0, 0, 0, 1 )
-custom_colors/font_color_focus = Color( 0, 0, 0, 1 )
 custom_colors/font_color = Color( 0, 0, 0, 1 )
 custom_fonts/font = SubResource( 2 )
 text = "Start"
